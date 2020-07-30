@@ -9,6 +9,18 @@ Gem::Specification.new do |spec|
   spec.email         = ["anton@46elks.com"]
 
   spec.summary       = %q{Send SMS from Huginn using https://46elks.com.}
+  spec.description   = <<-MD
+## What is this?
+
+This is an agent that allows you to send SMS with the help of https://46elks.com.
+
+## Want more?
+
+Check out these agents as well:
+
+-   [Sending MMS from Huginn]()
+-   [Making Phone calls from Huginn]()
+    MD
 
   spec.homepage      = "https://github.com/antonmyr/huginn_elks46_sms_agent"
 
