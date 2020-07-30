@@ -1,4 +1,4 @@
-# Elks46SmsAgent
+# 46elks SMS agent
 
 ## What is this?
 
