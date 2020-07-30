@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["antonmyr"]
   spec.email         = ["anton@46elks.com"]
 
-  spec.summary       = %q{Huginn agent which implements 46elks SMS feature.}
+  spec.summary       = %q{Send SMS from Huginn using https://46elks.com.}
 
   spec.homepage      = "https://github.com/antonmyr/huginn_elks46_sms_agent"
 
