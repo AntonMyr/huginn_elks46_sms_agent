@@ -4,24 +4,11 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "huginn_elks46_sms_agent"
-  spec.version       = '0.1'
+  spec.version       = '0.1.3'
   spec.authors       = ["antonmyr"]
   spec.email         = ["anton@46elks.com"]
 
   spec.summary       = %q{Send SMS from Huginn using https://46elks.com.}
-  spec.description   = <<-MD
-## What is this?
-
-This is an agent that allows you to send SMS with the help of https://46elks.com.
-
-## Want more?
-
-Check out these agents as well:
-
--   [Sending MMS from Huginn]()
--   [Making Phone calls from Huginn]()
-    MD
-
   spec.homepage      = "https://github.com/antonmyr/huginn_elks46_sms_agent"
 
   spec.license       = "MIT"
