@@ -26,8 +26,8 @@ You can now use the Elks46SmsAgent!
 
 Check out these agents as well:
 
--   [Sending MMS from Huginn]()
--   [Making Phone calls from Huginn]()
+-   [Sending MMS from Huginn](https://github.com/AntonMyr/huginn_elks46_mms_agent)
+-   [Making Phone calls from Huginn](https://github.com/AntonMyr/huginn_elks46_phone_call_agent/)
 
 ## Development
 
